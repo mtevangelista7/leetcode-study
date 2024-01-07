@@ -5,3 +5,5 @@ Este é um repositório simples para armazenar minhas soluções do LeetCode, in
 ## Linguagens
 
 - Typescript
+
+- C#
